@@ -1,3 +1,5 @@
+LINK TO  TEST MY MULTI_MODAL_ASSISTANT: https://huggingface.co/spaces/shaanahmed/shaanAI_MultiModalAssistant
+
 ### Project Description: MultiModal AI Assistant
 
 This project builds a **MultiModal AI Assistant** that combines text and multimedia capabilities to provide conversational AI responses. The assistant uses two major APIs:
