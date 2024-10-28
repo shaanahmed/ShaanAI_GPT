@@ -1,0 +1,42 @@
+1. GROQ API KEY
+Groq API keys can be obtained from Groq's website if you have an account.
+
+Steps:
+Create a Groq Account:
+
+Go to the Groq website and sign up for an account.
+Log in to your Groq account after verifying your email.
+Access the Developer Section:
+
+In your account dashboard, navigate to the Developer or API Keys section.
+Generate a New API Key:
+
+Look for an option to Generate API Key or Create API Token.
+Groq will generate an API key, which you should copy for use in your project.
+Store the API Key Securely:
+
+Keep the API key safe and avoid sharing it publicly. For additional security, consider storing it in a secure environment, like environment variables in your application.
+
+2. GEMINI API KEY
+
+Go to Google Cloud Console: Open Google Cloud Console and log in.
+
+*Create a New Project:
+
+*Click on the project dropdown and select New Project.
+Name your project and click Create.
+Enable Vertex AI API:
+
+*In the left sidebar, go to APIs & Services > Library.
+Search for Vertex AI API and click Enable.
+Set Up Billing:
+
+*In the sidebar, go to Billing and link a billing account to your project. (Not necessary)
+Create API Key:
+
+*Go to APIs & Services > Credentials.
+Click + CREATE CREDENTIALS and choose API Key.
+Copy the generated API key.
+Optional: Add Restrictions:
+
+For security, you can restrict the API key to Vertex AI under API Restrictions.
