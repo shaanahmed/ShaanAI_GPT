@@ -1,0 +1,6 @@
+gradio
+groq
+google-generativeai
+pyperclip
+opencv-python-headless
+pillow
